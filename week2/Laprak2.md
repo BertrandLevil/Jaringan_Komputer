@@ -20,4 +20,4 @@ Terakhir kita melakukan uji coba untuk mengambil paket dengan cara membuka sebua
 ![Paket_Dari_HTTP](../images/Screenshot%202026-03-02%20161452.png)
 
 Kemudian kita juga dapat melihat codingan html dari Website tersebut
-![Codingan_HTML](../images/Screenshot%202026-03-02%20161928.png) 
+![Codingan_HTML](../images/Screenshot%202026-03-02%20161928.png) ..
