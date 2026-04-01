@@ -118,10 +118,13 @@ Ya, pesan balasan juga memberikan alamat IP untuk ketiga server tersebut. Dapat 
 
 1. Ke alamat IP manakah pesan permintaan DNS dikirimkan? Apakah alamat IP tersebut 
 merupakan default alamat IP server DNS lokal Anda? 
+Tidak dapat mengetahui ip DNS permintaan DNS kita dikirimkan
 2. Periksa pesan permintaan DNS. Apa ”jenis” atau ”type” dari pesan tersebut? Apakah pesan 
 tersebut mengandung ”jawaban” atau ”answers”? 
+Tidak ada answer
 3. Periksa pesan balasan DNS. Berapa banyak ”jawaban” atau “answers” yang terdapat di 
 dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
+Tidak ada answer
 Tidak dapat menjawab semua soal diatas karena pasti akan menghasilkan timeout
 Dapat dilihat pada gambar berikut 
 ![Fotosoal5](../images/Screenshot%202026-03-31%20120551.png)
