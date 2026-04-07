@@ -5,7 +5,7 @@ Modul: 6 (TCP)
 
 Pada praktikum minggu ini pertama-tama kita disuruh untuk membuka sebuah website yang berisi banyak tulisan yang dapat kita simpan dalam file bentuk txt
 ![Foto1](../images/Screenshot%202026-04-06%20152558.png)
-Lalu kita menyimpan file tersebut ke dalam perangkat dengan nama alice.txt setelah itu kita membuka sebuah website lagi disino, untuk mengupload file alice.txt yang telah kita unduh tadi
+Lalu kita menyimpan file tersebut ke dalam perangkat dengan nama alice.txt setelah itu kita membuka sebuah website lagi disini, untuk mengupload file alice.txt yang telah kita unduh tadi
 ![Foto2](../images/Screenshot%202026-04-06%20152616.png)
 Tampilan berhasil pada layar website bila upload kita telah berhasil dan diterima server
 ![Foto3](../images/Screenshot%202026-04-06%20152828.png)
