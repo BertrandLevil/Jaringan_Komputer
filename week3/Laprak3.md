@@ -28,6 +28,7 @@ Paket yang dikirim akan dibagi menjadi 4. Supaya apabila terjadi kesalahan pengi
 <br>
 Revisi praktikum penambahan modul <br>
 Pertama kita akan membuka sebuah website http yang berisikan html pada modul yaitu http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html <br>
+
 ![Foto4](../images/Screenshot%202026-06-16%20135359.png)
 Kita dapat melihat pada wireshark bahwa jaringan akan melakukan get dan post, kita meminta akses kepada suatu halaman kemudian halaman website tersebut memberikan dengan kode 2xx yaitu oke, yang artinya permintaan kita disetujui <br>
 ![Foto3](../images/Screenshot%202026-06-16%20135351.png)
